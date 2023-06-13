@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "saloonapp-387109",
+  "private_key_id": "973c18188a590f435ad74137cc815f2873c93e73",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCdt7gG/b2f8i6x\nQRsNMKxxgY+doOMNzwTm6lR3BPOrzk66dNXCGSOtZvtbQV65+GJHMuJ4zKz/pbB0\nEVZ7+dR0+7gk6Nwtuu74hzqkT5r4qzHhnEclJRwUZYW3yx27jdrb+MftlyymXL16\nYjo1MKx+V4ZGLzLoX+AP4gx03q/dte8PThAjZcWHJyq1UcAK33fEwZEJnhoB5Qg0\nUb6AwLsUgDYYAiiKlL2fiG6KRrNIv1zNpGHH73QeNwvIJTvs/bgaUJFqv5PnGzEX\na6vZdm5dNjWF9s93k0L862TknmTjHhX9Oz+BfEcWhhZpDV+pI8xQ8Q7P6CVdJTNL\nvMNp78kXAgMBAAECggEAAtA/Cakf3+7S2Q5VlsMWmz2/ZvZrF2vwmdQq071K9m8D\nsSpWVQUJX6/kwKLIN15qnXQ85OKXOtzV4yFXdYW1PdqFc1TA6AqjUEU9wfGcEIwS\nqzj2IuGzj0RK1L8gGVUmOAC/2mPXEvn0fGclLVJ+ZmrswWs6xgwg96pjyhWSwQig\nhPMN0RA5kb2KNmkoMHttUOOtC6LbTT4o4N4V3oN4Yn+bJVka5aT2QPxt39xLYHjq\nMkxR40F0yuWCdPkaD7qaqIP9fceQtRiQaJcfd0I94NVgBWIVKnHu8cjcmhcfeksm\nfq4ap2TafikrFkdifZ2SWNrQNdt6jRkYx89I8KdMeQKBgQDeLVvbp2m8fDAwyfAs\n4J9CvDB8kOyaKtAMPOHzVBk4dnk7OjsL46l//Pt1AWdJ4xmR/ipI/KFPV6gRyB6D\nzMhnzZHol+sGLqTotyS2Xj6clElVTQ/7YgLhuqFB1/nzpv7hFNIeURJFx8rVPkM0\n3PTLcro8o07sDZ+rQmckL3trfwKBgQC1ukHSNCOYcj0XKCfcFcvcNx0Ex1bghW0M\nt/LWIJGSGBGU2pEojqgTn2ZehxpuY09vNPfEP0edijQgwybHTEAMfPuv87WGy0Q9\nXihn+qkbyb7nYqu6GPfz/Pz0PpizDgnYVpjr8lb6qhKg/8sTAA3OB9eQ3qQYk5cT\nbxXJsnBOaQKBgBxZ923ZODH4OwIO0to3M7uFXj6XE8o8il31avPtGGbPH3tCXASR\nYbDWbJQqwK56D2pE38p+imsgiW7zdYlmGXC9l8/xiuk4DI0xybqH3j+G4LDE67Qt\ndqatdSR81gWUmtPIH2QE/mrvKt/5WQQm6goIMuHICSswNd7Z02WXtY0rAoGAULjO\negfM8+9ysXGV2w4Xgtc8XZ4KOisqWGbxSCopX2KvlJZNul07zZOVjlGm7PfSFgzK\nLfMJ5bG5HABznj2BicqOpga0UI7D3hqQCjfunDhOQ0uyCjUDFu7+kaOogoiu2NkG\njnAUML4RDlDxLJxuhWE4YNJ0w7Hzfp9uZyyK9FkCgYA+5NlCvN25a1RadUWQVOEr\nfi89B8ggSBvamNMSY/ZTeSZCOEbzu4cG9W+NmMpt8lHIQWR0jtz+ly0twxsRRl1X\nC71YIkXQbxiTmeHsff7j8gHEz0sSnKvuGXGL8GZjBMo4+gnLo/MB7qimFypH65YX\nuhVXqBfTOF/dXnm6Xei8hg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "aviar-technology-services@saloonapp-387109.iam.gserviceaccount.com",
+  "client_id": "113110810479580180288",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aviar-technology-services%40saloonapp-387109.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
